@@ -4,20 +4,35 @@ This repository contains SQL-based mini database management system projects crea
 
 ## Projects Included:
 
-### 1. Student Management System
-- Manages student records like name, roll number, marks, and grades.
-- Tables: Students, Results
-- Features: Grade calculation, student filtering, result queries.
+### 1. COVID-19 Data Analysis System
+Analyzes COVID-19 statistics such as cases, deaths, and recovery by region.  
+**Tables:** Cases, Countries, Vaccinations  
+**Features:** Country-wise trend, daily new cases, recovery percentage, vaccine coverage.
 
-### 2. Library Management System
+### 2. Hospital Management System
+- Manages patients, doctors, and their appointments.
+- Tables: Patients, Doctors, Appointments
+- Features: Appointment scheduling, doctor-wise patient list, disease search.
+
+### 3. Library Management System
 - Keeps track of books, borrowers, and issued/return status.
 - Tables: Books, Students, Issues
 - Features: Book issue/return tracking, available books, late return checks.
 
-### 3. Hospital Management System
-- Manages patients, doctors, and their appointments.
-- Tables: Patients, Doctors, Appointments
-- Features: Appointment scheduling, doctor-wise patient list, disease search.
+### 4. Movie Database Management System
+Stores movie details, actors, genres, and reviews.  
+**Tables:** Movies, Genres, Actors, Movie_Actors, Reviews  
+**Features:** Top-rated movies, actor filmography, genre popularity.
+
+### 5. Online Retail Database System
+Analyzes and manages product sales, customers, and transactions.  
+**Tables:** Customers, Products, Orders, Payments  
+**Features:** Sales analysis, product-wise performance, customer transaction history.
+  
+### 6. Student Management System
+- Manages student records like name, roll number, marks, and grades.
+- Tables: Students, Results
+- Features: Grade calculation, student filtering, result queries.
 
 ---
 
